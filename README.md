@@ -24,9 +24,8 @@ Enter the Server directory and run the following commands
 - `sh ./start.sh`
 
 ## Features
-- User Registration
-- Email Verification
-- Password Reset
+- User Login & Registration
+- Email Verification & Password Reset
 - Profile Avatar & Gallery Images
 - Profile Biography & Interests
 - User Search & Filter
