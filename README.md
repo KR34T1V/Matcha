@@ -20,9 +20,7 @@ Enter the Client directory and run  the following commands
 
 ### Server
 Enter the Server directory and run the following commands
-1. Install the packages required to run the Server:
-- `npm install`
-2. Start the server using the script start .sh:
+1. Start the server using the script start .sh:
 - `sh ./start.sh`
 
 ## Features
