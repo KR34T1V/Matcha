@@ -1,0 +1,6 @@
+[submodule "Server"]
+	path = Matcha-Server
+	url = https://github.com/KR34T1V/Matcha-Server.git
+[submodule "Client"]
+	path = Matcha-Client
+	url = https://github.com/KR34T1V/Matcha-Client.git
