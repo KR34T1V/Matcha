@@ -8,7 +8,7 @@ Please note that you will need to have NodeJS and MySQL installed on your system
 ## Getting Started
 ### Modules
 Please ensure that all modules are up to date:
-- `git submodule update`
+- `git submodule update --init --recursive --remote`
 ### Client
 Enter the Client directory and run  the following commands
 1. Install yarn to run the client server:
