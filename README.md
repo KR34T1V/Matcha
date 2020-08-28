@@ -7,7 +7,7 @@ Please note that you will need to have NodeJS and MySQL installed on your system
 2. [MySQL Installation](https://itsfoss.com/install-mysql-ubuntu/)
 ## Getting Started
 ### Modules
-Please ensure that all modules are up to date:
+After cloning the repository please ensure that all modules are up to date:
 - `git submodule update --init --recursive --remote`
 ### Client
 Enter the Client directory and run  the following commands
